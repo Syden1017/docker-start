@@ -1,0 +1,14 @@
+15.14: Pulling from library/node
+4b57d41e8391: Pulling fs layer
+bd821d20ef8c: Pulling fs layer
+6041b69671c6: Pulling fs layer
+989c5d2d2313: Pulling fs layer
+55fab5cadd3c: Pulling fs layer
+bd821d20ef8c: Already exists
+6041b69671c6: Already exists
+989c5d2d2313: Already exists
+55fab5cadd3c: Already exists
+4b57d41e8391: Already exists
+Digest: sha256:608bba799613b1ebf754034ae008849ba51e88b23271412427b76d60ae0d0627
+Status: Downloaded newer image for node:15.14
+docker.io/library/node:15.14
