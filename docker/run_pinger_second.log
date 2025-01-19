@@ -1,0 +1,2 @@
+docker: Error response from daemon: Conflict. The container name "/pinger" is already in use by container "6ce4169e67a799a432a02b922f88b2aa8b6647f157513757d3bede3ec0a014fb". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.

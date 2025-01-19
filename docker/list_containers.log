@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                     PORTS     NAMES
+6ce4169e67a7   busybox   "ping -c 7 netology.тАж"   15 seconds ago   Exited (0) 7 seconds ago             pinger
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+6ce4169e67a7   busybox   "ping -c 7 netology.тАж"   36 seconds ago   Exited (0) 28 seconds ago             pinger
